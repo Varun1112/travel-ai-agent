@@ -1,5 +1,5 @@
 import type { ItineraryDay } from "../types/agent";
-import "./ItineraryCard.css";
+import './IntineraryCard.css'
 
 interface Props {
   itinerary: ItineraryDay[];
